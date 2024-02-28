@@ -1,3 +1,4 @@
+#initail code
 class BankAccount
   attr_reader :balance
 
